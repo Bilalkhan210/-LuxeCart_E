@@ -1,0 +1,6 @@
+{
+  "name": "LuxeCart - Curated Luxury Atelier",
+  "description": "Premium e-commerce platform offering Scandinavian craftsmanship, fine leather goods, timepieces, spatial audio, and architectural objects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
